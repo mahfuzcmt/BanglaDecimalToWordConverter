@@ -10,6 +10,9 @@
 ## Installation
 ## Create Vrtual Environment
 ```bash
+sudo apt install virtualenv
+```
+```bash
 virtualenv --version	
 ```
 ```bash
