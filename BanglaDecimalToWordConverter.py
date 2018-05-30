@@ -371,8 +371,3 @@ class DecimalToWord():
             finalWord += self.inWords[k]
             k += 1
         return finalWord
-
-decimal_to_word = DecimalToWord()
-
-print(decimal_to_word.convertAmount(10, False, True, 'bng'))
-
