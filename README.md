@@ -25,7 +25,7 @@ source pyenv/bin/activate
 
 **BEFORE YOU INSTALL:** please ensure the [prerequisites](#prerequisites)
 ```bash
-sudo pip3 install bdtdecimaltowordconverter 
+pip install bdtdecimaltowordconverter
 ```
 
 ## Usage
