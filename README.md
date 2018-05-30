@@ -8,6 +8,17 @@
 * pip3
 
 ## Installation
+## Create Vrtual Environment
+```bash
+virtualenv --version	
+```
+```bash
+virtualenv -p /usr/bin/python3.6 pyenv
+```
+## Active Environment
+```bash
+source pyenv/bin/activate 
+```
 
 **BEFORE YOU INSTALL:** please ensure the [prerequisites](#prerequisites)
 ```bash
