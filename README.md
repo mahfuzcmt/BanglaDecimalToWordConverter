@@ -7,20 +7,6 @@
 * pip3
 
 ## Installation
-## Create Vrtual Environment
-```bash
-sudo apt install virtualenv
-```
-```bash
-virtualenv --version	
-```
-```bash
-virtualenv -p /usr/bin/python3.6 pyenv
-```
-## Active Environment
-```bash
-source pyenv/bin/activate 
-```
 
 **BEFORE YOU INSTALL:** please ensure the [prerequisites](#prerequisites)
 ```bash
@@ -32,7 +18,7 @@ pip install bdtdecimaltowordconverter
 ### import DecimalToWord from bdtdecimaltowordconverter
 
 ```bash
-from bdtdecimaltowordconverter import DecimalToWord
+from bdtdecimaltowordconverter.bdtdecimaltowordconverter import DecimalToWord
 
 ```
 
