@@ -41,5 +41,8 @@ decimal_to_word.convertAmount(8.89, False, False, 'bng')
 * 4. output language available languages
 	'bng' for bangla and 'eng' for english
 
+### [Javascript Version](http://jsfiddle.net/mahfuzcmt/vxmta5ua/1/)
 
 ## Contact with [Author](https://www.fb.com/mahfuzcmt)
+
+
