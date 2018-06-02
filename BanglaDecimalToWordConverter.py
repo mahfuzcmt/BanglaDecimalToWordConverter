@@ -67,7 +67,7 @@ class DecimalToWord():
         self.eng_to_bng['thirty eight'] = 'আটত্রিশ'
         self.eng_to_bng['thirty nine'] = 'ঊনচল্লিশ'
 
-        self.eng_to_bng['চল্লিশ'] = 'ত্রিশ'
+        self.eng_to_bng['fourty'] = 'চল্লিশ'
         self.eng_to_bng['forty one'] = 'একচল্লিশ'
         self.eng_to_bng['forty two'] = 'বেয়াল্লিশ'
         self.eng_to_bng['forty three'] = 'তেতাল্লিশ'
@@ -115,7 +115,7 @@ class DecimalToWord():
         self.eng_to_bng['eighty one'] = 'একাশি'
         self.eng_to_bng['eighty two'] = 'বিরাশি'
         self.eng_to_bng['eighty three'] = 'তিরাশি'
-        self.eng_to_bng['eighty fou'] = 'চুরাশি'
+        self.eng_to_bng['eighty four'] = 'চুরাশি'
         self.eng_to_bng['eighty five'] = 'পঁচাশি'
         self.eng_to_bng['eighty six'] = 'ছিয়াশি'
         self.eng_to_bng['eighty seven'] = 'সাতাশি'
