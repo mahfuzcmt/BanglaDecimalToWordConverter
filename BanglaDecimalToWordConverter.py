@@ -1,7 +1,7 @@
 #!/usr/bin/env python3.6
 
 
-class DecimalToWord():
+class DecimalToWords():
     def __init__(self):
 
         self.iWords = ['zero', ' one', ' two', ' three', ' four', ' five', ' six', ' seven', ' eight', ' nine']
@@ -371,3 +371,5 @@ class DecimalToWord():
             finalWord += self.inWords[k]
             k += 1
         return finalWord
+
+
