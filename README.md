@@ -1,4 +1,4 @@
-## [BDT Decimal to Word Converter](https://pypi.org/project/bdtdecimaltowordconverter/)
+## [BDT Decimal to Words Converter](https://pypi.org/project/bdtdecimaltowordconverter/)
 
 ## Prerequisites
 
