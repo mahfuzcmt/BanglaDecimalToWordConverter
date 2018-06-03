@@ -1,4 +1,4 @@
-## [BDT Decimal to Words Converter](https://pypi.org/project/bdtdecimaltowordconverter/)
+## [BDT Decimal to Words Converter](https://pypi.org/project/bdtdecimaltowordsconverter/)
 
 ## Prerequisites
 
@@ -9,26 +9,26 @@
 
 **BEFORE YOU INSTALL:** please ensure the [prerequisites](#prerequisites)
 ```bash
-pip install bdtdecimaltowordconverter
+pip install bdtdecimaltowordsconverter
 ```
 
 ## Usage
 
-### import DecimalToWord from bdtdecimaltowordconverter
+### import DecimalToWords from bdtdecimaltowordsconverter
 
 ```bash
-from bdtdecimaltowordconverter.bdtdecimaltowordconverter import DecimalToWord
+from bdtdecimaltowordsconverter.bdtdecimaltowordsconverter import DecimalToWords
 
 ```
 
-### make object of bdtdecimaltowordconverter
+### make object of bdtdecimaltowordsconverter
 
 ```bash
-decimal_to_word = DecimalToWord()
+decimal_to_words = DecimalToWords()
 ```
 ### call the convertAmount() function with your value
 ```bash
-decimal_to_word.convertAmount(8.89, False, False, 'bng')
+decimal_to_words.convertAmount(8.89, False, False, 'bng')
 ```
 
 ### parameters
